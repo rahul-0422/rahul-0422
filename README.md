@@ -1,6 +1,6 @@
 Hey there 🙋🏻‍♂️
 
-i'm Rahul, a Content Analyst based in India "Aspiring Data Analyst turning complex datasets into actionable insights through SQL, Python, and data storytelling."
+I'm Rahul, a Content Analyst based in India "Aspiring Data Analyst turning complex datasets into actionable insights through SQL, Python, and data storytelling."
 
 🛠️ My Data Toolkit
 
